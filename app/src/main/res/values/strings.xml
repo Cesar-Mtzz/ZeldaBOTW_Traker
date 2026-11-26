@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Zelda Tracker</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Inicio de sesión</string>
+    <string name="username_label">Nombre de usuario</string>
+    <string name="password_label">Contraseña</string>
+    <string name="error_enter_username">Captura tu nombre de usuario</string>
+    <string name="error_enter_password">Captura tu contraseña</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="register_button">Registrar</string>
+
+    <!-- Register Screen -->
+    <string name="register_title">Registro de nuevo usuario</string>
+    <string name="name_label">Nombre: </string>
+    <string name="username_label_colon">Nombre de usuario: </string>
+    <string name="password_label_colon">Contraseña: </string>
+    <string name="confirm_password_label">Vuelve a ingresar la contraseña: </string>
+    <string name="error_enter_name">Captura tu nombre</string>
+    <string name="error_passwords_must_match">Las contraseñas tienen que ser iguales</string>
+
+    <!-- Navigation / BottomBar -->
+    <string name="nav_enemies">Enemigos</string>
+    <string name="nav_foods">Comidas</string>
+    <string name="nav_equipment">Equipamiento</string>
+    <string name="nav_progress">Progreso</string>
+
+    <!-- Progress Cards & Headers -->
+    <string name="title_overall_progress">Progreso General</string>
+    <string name="title_total_progress">Progreso Total</string>
+    <string name="title_enemies_eliminated">Enemigos Eliminados</string>
+    <string name="title_foods_found">Comidas Encontradas</string>
+    <string name="title_equipment_found">Equipamiento Encontrado</string>
+
+    <!-- Content Screens -->
+    <string name="title_enemies">Enemigos</string>
+    <string name="title_foods">Comidas</string>
+    <string name="title_equipment">Equipamiento</string>
+    <string name="empty_enemies">No hay enemigos para mostrar</string>
+    <string name="empty_foods">No hay comidas para mostrar</string>
+    <string name="empty_equipment">No hay equipamiento para mostrar</string>
+    <string name="retry_button">Reintentar</string>
+
+    <!-- Cards Actions & Properties -->
+    <string name="btn_add">Añadir</string>
+    <string name="btn_remove">Quitar</string>
+    <string name="dlc_yes">Requiere DLC: Sí</string>
+    <string name="dlc_no">Requiere DLC: No</string>
+    <string name="label_common_locations">Ubicaciones comunes: %s</string>
+    <string name="label_drops">Drops: %s</string>
+    <string name="label_effects">Efectos: %s</string>
+    <string name="label_hearts_recovered">Corazones recuperados: %s</string>
+    <string name="label_attack">Ataque: %s</string>
+    <string name="label_defense">Defensa: %s</string>
+    <string name="no_data">Sin Datos</string>
+</resources>
